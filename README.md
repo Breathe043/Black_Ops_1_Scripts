@@ -1,0 +1,1 @@
+Game altering scripts ("patches") for Black Ops 1 Zombies. I do not claim all the credit on all of the files, some patches use other author's patches as a base. All authors are credited accordingly in the files.
